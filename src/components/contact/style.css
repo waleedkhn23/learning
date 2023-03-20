@@ -1,0 +1,19 @@
+#contact {
+    background-image: url("../../assets/contact.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    /* background-size:contain; */
+    background-position: center;
+}
+.contactDiv{
+    /* contactBox */
+    background-image: url("../../assets/contactBox.png");
+
+    position: relative;
+    top: 10rem;
+}
+#contactInput{
+    background: rgba(0,0,0,0.5);
+    color: white;
+    /* border: red !important; */
+}

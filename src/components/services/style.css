@@ -1,0 +1,10 @@
+#services{
+    /* background-image: url("../../assets/ourServices.jpg"); */
+    height: 100vh;
+    background-repeat:no-repeat;
+    /* background-size:contain; */
+    background-position:center;
+}
+#testimonial1{
+    width: 95%;
+}

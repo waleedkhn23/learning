@@ -1,0 +1,7 @@
+.accordion-button{
+    background-color: #E6A804 !important;
+}
+.accordion-item:first-of-type .accordion-button{
+    border-radius: none !important;
+    border-top-left-radius: none !important;
+}
